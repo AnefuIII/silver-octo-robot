@@ -16,9 +16,16 @@
     "location": {
       "text": "Lagos",
       "resolved": "Lagos",
-      "google_maps": null
+      "google_maps": {
+        "address": "113-103, 117 Lagos St, Adekunle, Lagos 101245, Lagos, Nigeria",
+        "latitude": 6.4904322,
+        "longitude": 3.3887398,
+        "rating": 5,
+        "place_id": "ChIJczYl6HGLOxAR4kebA6u4JJ0",
+        "source": "google_maps"
+      }
     },
-    "confidence_score": 0.6,
+    "confidence_score": 0.7999999999999999,
     "evidence": [
       "soft_contact_signal"
     ]
